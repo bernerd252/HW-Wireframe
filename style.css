@@ -11,8 +11,8 @@ body
 	text-align: center;
 	padding-bottom: 20px;
 	padding-top: 20px;
-	margin-left: 32px;
-	margin-right: 32px;
+	margin-left: 195px;
+	width:960px;
 }
 
 .nav
@@ -21,28 +21,29 @@ body
 	text-align: center;
 	padding-bottom: 20px;
 	padding-top: 20px;
-	margin-left: 32px;
-	margin-right: 32px;
+	margin-left: 195px;
+	width:960px;
 	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 .section
 {
 	background-color: #ebebeb;
 	text-align: center;
-	margin-left: 32px;
-	width: 595px;
+	margin-left: 195px;
+	width: 495px;
 	padding-top: 20px;
-	height: 400px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 .article
 {
 	background-color: #777;
-	width: 550px;
-	margin-left: 22.5px;
-	height: 300px;
+	width: 455px;
+	margin-left: 20px;
+	padding-bottom: 20px;
 	padding-top: 10px;
 	margin-top: 20px;
 
@@ -51,8 +52,8 @@ body
 .h
 {
 	background-color: #ebebeb;
-	width:500px;
-	margin-left: 25px;
+	width:415px;
+	margin-left: 20px;
 	margin-bottom: 20px;
 	margin-top: 20px;
 	padding-top: 20px;
@@ -62,9 +63,9 @@ body
 .p
 {
 	background-color: #ebebeb;
-	width:500px;
-	margin-left: 25px;
-	margin-bottom: 10px;
+	width:415px;
+	margin-left: 20px;
+	margin-bottom: 20px;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
@@ -73,19 +74,20 @@ body
 {
 	position: absolute;
 	background-color: #ebebeb;
-	width: 595px;
-	height: 420px;
-	right: 40px;
-	top: 150px;
+	width: 445px;
+	height:	295px;
+	right: 195px;
+	top: 160px;
 	text-align: center;
+	padding-top: 20px;
 }
 
 .footer
 {
 	background-color: #ebebeb;
 	text-align: center;
-	margin-right: 32px;
-	margin-left: 32px;
+	width: 960px;
+	margin-left: 195px;
 	margin-top: 10px;
 	padding-top: 20px;
 	padding-bottom: 20px;
